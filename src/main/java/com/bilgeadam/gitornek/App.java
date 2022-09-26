@@ -7,5 +7,6 @@ public class App
     {
        System.err.println("deneme");
        System.err.println("deneme 2");
+       System.err.println("deneme 3");
     }
 }
