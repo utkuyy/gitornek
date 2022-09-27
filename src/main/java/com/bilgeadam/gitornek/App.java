@@ -11,6 +11,7 @@ public class App
        System.err.println("deneme 4");
        Person p = new Person();
        p = null;
+       System.err.println("new branch");
        
     }
 }
